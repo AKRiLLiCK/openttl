@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
-  <rect width="100%" height="100%" fill="white"/>
-  <g fill="#A31F34">
-    <rect x="40" y="80" width="40" height="120"/>
-    <rect x="50" y="90" width="20" height="100" fill="white"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="56" fill="#FFFFFF"/>
+  
+  <path fill="#A31F34" fill-rule="evenodd" clip-rule="evenodd" d="
+    M 48 60 h 28 v 110 h -28 Z 
+    M 56 70 v 90 h 12 v -90 Z 
     
-    <rect x="110" y="80" width="40" height="20"/>
-    <rect x="125" y="100" width="10" height="100"/>
+    M 92 60 h 28 v 16 h -10 v 94 h -8 v -94 h -10 Z 
     
-    <rect x="180" y="80" width="40" height="20"/>
-    <rect x="195" y="100" width="10" height="100"/>
+    M 136 60 h 28 v 16 h -10 v 94 h -8 v -94 h -10 Z 
     
-    <rect x="250" y="80" width="10" height="100"/>
-    <rect x="250" y="180" width="40" height="20"/>
-  </g>
+    M 180 60 h 8 v 94 h 20 v 16 h -28 Z 
+    
+    M 40 182 h 176 v 14 h -176 Z
+  "/>
 </svg>
